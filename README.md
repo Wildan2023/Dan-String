@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/ionmusic/KazuStringGen
+   git clone https://github.com/Wildan2023/Dan-String
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -66,9 +66,9 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Project](https://t.me/Karc0de)
+Channel :- [Project](https://t.me/Disney_storeDan)
 
-Group Chat :- [Group support](https://t.me/obrolansuar)
+Group Chat :- [Group support](https://t.me/danstring)
 
 ## :)
 
