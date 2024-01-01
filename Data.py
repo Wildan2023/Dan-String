@@ -13,7 +13,7 @@ class Data:
 2) 𝙱𝙻𝙾𝙺𝙸𝚁 𝙱𝙾𝚃 𝙰𝚃𝙰𝚄 𝙳𝙴𝙻𝙰𝚃𝙴 𝙲𝙷𝙰𝚃 
 
 Bot ini Bekerja Untuk Membantu Kamu Mendapatkan String Session Via Bot. Rekomendasi Jika Ingin Mengambil String Gunakan Akun Lain, Agar Tidak Delay. Terimakasih
-By @kenapatagkazu
+By  @mhmdwldnnnn
     """
 
     # Home Button
@@ -34,12 +34,12 @@ By @kenapatagkazu
             InlineKeyboardButton("ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ​​", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ​", callback_data="about")
         ],
-        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/kazu_stringbot")],
+        [InlineKeyboardButton("ɪɴꜰᴏ ʙᴏᴛ ʟᴀɪɴɴʏᴀ​", url="https://t.me/danstring")],
     ]
 
     # Help Message
     HELP = """
-✨ **Available Commands** ✨
+⚡ **Available Commands** ⚡
 
 /about - Tentang Bot ini
 /help - This Message
@@ -53,13 +53,13 @@ By @kenapatagkazu
     ABOUT = """
 **About This Bot** 
 
-Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @karstring_bot
+Sebuah telegram bot untuk mengambil pyrogram dan telethon string session by @mhmdwldnnnn
 
-Group Support : [Gabung](https://t.me/kazusupportgrp)
+Group Support : [Gabung](https://t.me/danstring)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @kenapatagkazu
+Developer : @mhmdwldnnnn
     """
