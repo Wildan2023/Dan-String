@@ -1,18 +1,18 @@
-# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/karstring_bot)
+# Pyrogram and Telethon String Session Bot [StringBot](https://t.me/danstring)
 
 > A star 🌟 from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/rioprojectx"><img src="https://telegra.ph/file/660357518a3b03ee3b636.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/Wildan2023/Dan-String"><img src="https://telegra.ph/file/660357518a3b03ee3b636.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Wildan2023/open-source-badges/)
 
 ## Usage
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ionmusic/KazuStringGen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wildan2023c/Dan-String)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
