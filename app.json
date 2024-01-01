@@ -1,5 +1,5 @@
 {
-  "name": "Pyrogram String Session Generator",
+  "name": "Dan String Session Generator",
   "description": "Telegram bot to generate pyrogram string session",
   "logo": "https://telegra.ph/file/7ec22c82f580a334dd13e.jpg",
   "keywords": [
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/ionmusic/KazuStringGen",
+  "repository": "https://github.com/Wildan2023/Dan-String",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": true,
-      "value": ""
+      "value": "https://t.me/Disney_storeDan"
     }
   }
 }
