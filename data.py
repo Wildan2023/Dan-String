@@ -13,7 +13,7 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("📥 Ini Grup ku  📥", url="https://t.me/kazusupportgrp")],
+        [InlineKeyboardButton("📥 Ini Grup ku  📥", url="https://t.me/danstring")],
         [
             InlineKeyboardButton("Cara Pakeknya ❔", callback_data="help"),
             InlineKeyboardButton("📌 Apa Masalah Kau 📌", callback_data="about")
@@ -33,7 +33,7 @@ By @kenapatagkazu
     """
 
     HELP = """
-✨ **Available Commands** ✨
+💥 **Available Commands** 💥
 
 /about - About The Bot
 /help - This Message
@@ -46,13 +46,13 @@ By @kenapatagkazu
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
+Telegram Bot to generate Pyrogram and Telethon string session by @mhmdwldnnnn
 
-Source Code : [Click Here](https://github.com/ionmusic/KazuStringGen)
+Source Code : [Click Here](https://vt.tiktok.com/ZSNWcRpAk/)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
 Language : [Python](https://www.python.org)
 
-Developer : @kenapatagkazu
+Developer : @mhmdwldnnnn
     """
